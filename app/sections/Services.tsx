@@ -6,23 +6,23 @@ import { motion } from "framer-motion";
 const services = [
   {
     num: "01",
-    title: "SHORT-FORM VIDEO",
-    desc: "Simple, cinematic clips for social, web, and small brands — honest work while I build my skills.",
+    title: "BRAND FILMS",
+    desc: "Not just a video. A commercial asset. Built to convert, retain, and position your brand in a market that doesn't forgive mediocrity.",
   },
   {
     num: "02",
-    title: "LOCAL PROMOS",
-    desc: "Straightforward shoots for events, shops, and creators in Birmingham who need a clean first video.",
+    title: "MUSIC VIDEOS",
+    desc: "Visual worlds built around artists with intention behind every frame. Concept, direction, and execution — owned end to end.",
   },
   {
     num: "03",
-    title: "UGC STYLE",
-    desc: "Authentic, platform-native content — learning to make it feel real, not overproduced.",
+    title: "UGC & CONTENT STRATEGY",
+    desc: "Platform-native content backed by an understanding of what actually performs. Creative that serves the algorithm without surrendering to it.",
   },
   {
     num: "04",
-    title: "COLLABORATIONS",
-    desc: "Passion projects, student work, and creative experiments — open to growing alongside you.",
+    title: "BRAND & STARTUP CONSULTING",
+    desc: "For early-stage founders who need a creative operator in their corner. Visual identity, brand positioning, and go-to-market storytelling — from someone who is building too.",
   },
 ];
 

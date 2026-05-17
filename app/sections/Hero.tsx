@@ -114,7 +114,7 @@ export default function Hero() {
           variants={lineVariants}
           className="label-caps mb-4 text-[var(--accent-primary)]"
         >
-          EMERGING VIDEOGRAPHER · STORYTELLER
+          FOUNDER · CREATIVE DIRECTOR · BUILDER
         </motion.p>
         {["FAHAD", "CAPTURES"].map((word) => (
           <motion.h1
@@ -135,8 +135,8 @@ export default function Hero() {
           variants={lineVariants}
           className="mt-6 max-w-[400px] font-mono-body text-[15px] leading-relaxed text-[var(--text-dim)]"
         >
-          Early in the journey — learning cinematic visuals frame by frame.
-          Birmingham · open to collaborations.
+          Building brands, businesses, and visual worlds from Birmingham.
+          The camera is one tool. The company is the goal.
         </motion.p>
       </motion.div>
 

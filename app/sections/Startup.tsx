@@ -43,9 +43,9 @@ export default function Startup() {
           BEING BUILT.
         </h2>
         <p className="font-editorial mt-8 text-xl italic text-[var(--text-dim)]">
-          One day, more than a portfolio.
+          Not a side project. Not a hobby.
           <br />
-          For now — learning, shooting, building.
+          A company. Details on our terms, on our timeline.
         </p>
 
         <form

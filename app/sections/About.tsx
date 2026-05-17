@@ -48,29 +48,29 @@ export default function About() {
             VIDEOGRAPHER.
           </h2>
           <p className="font-editorial mt-8 max-w-[480px] text-lg leading-[1.75] text-[var(--white)]">
-            I&apos;m early in my journey — still learning, still shooting, still
-            figuring out my voice behind the camera. What I lack in credits, I
-            make up for in hunger, curiosity, and care for every frame.
+            He doesn&apos;t just shoot — he builds. Fahad is a creative
+            entrepreneur whose work sits at the intersection of visual
+            storytelling, brand strategy, and business development.
           </p>
           <p className="font-editorial mt-6 max-w-[480px] text-lg leading-[1.75] text-[var(--white)]">
-            With a background in computing, I understand how stories travel
-            online — and I&apos;m teaching myself the craft of making them look
-            and feel cinematic along the way.
+            The camera came first. The business mind followed quickly. Now the
+            two are inseparable — every project is approached not just as a
+            creative brief, but as a commercial problem worth solving properly.
           </p>
           <p className="font-editorial mt-6 max-w-[480px] text-lg leading-[1.75] text-[var(--text-dim)]">
-            Currently: building my portfolio with a handful of videos so far.
-            Open to small projects, collaborations, and anyone willing to grow
-            with me.
+            Currently directing cinematic work for brands and artists while
+            building his own ventures from the ground up. Based in Birmingham.
+            Operating everywhere.
           </p>
 
           <motion.div className="my-10 h-px w-full bg-[var(--muted)]" />
 
           <div className="grid grid-cols-2 gap-8">
             {[
-              { value: "01+", label: "YEAR PRACTISING" },
-              { value: "03", label: "VIDEOS SO FAR" },
-              { value: "01", label: "CITY · BIRMINGHAM" },
-              { value: "∞", label: "ROOM TO GROW" },
+              { value: "04+", label: "YEARS IN THE CREATIVE INDUSTRY" },
+              { value: "3", label: "VENTURES IN DEVELOPMENT" },
+              { value: "60+", label: "PROJECTS DELIVERED" },
+              { value: "∞", label: "PROBLEMS WORTH SOLVING" },
             ].map((stat) => (
               <div key={stat.label}>
                 <span className="font-display text-4xl text-[var(--white)]">

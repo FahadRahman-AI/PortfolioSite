@@ -33,8 +33,8 @@ export default function Contact() {
             REAL.
           </h2>
           <p className="mt-8 max-w-md font-mono-body text-[15px] text-[var(--text-dim)]">
-            Open to small projects, collaborations, and honest conversations.
-            Still building — happy to hear what you need.
+            Open to commissions, partnerships, and conversations worth having.
+            Response within 24 hours.
           </p>
 
           <a
@@ -64,7 +64,7 @@ export default function Contact() {
             FAHAD © 2025
           </span>
           <span className="font-mono-body text-xs text-[var(--text-dim)]">
-            BIRMINGHAM · UK
+            BIRMINGHAM · LONDON · BUILDING WORLDWIDE
           </span>
           <nav className="flex gap-4">
             {socials.map((s) => (
